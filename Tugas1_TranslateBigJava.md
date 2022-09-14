@@ -11,7 +11,7 @@ NIM : 2110131220012
 
 <br>
 
-<p><img src="img/17.png"></p>
+<p><img src="img/17.png" align="center"></p>
 
 ## 1.1 Program Komputer
 Anda mungkin pernah menggunakan komputer untuk bekerja atau bersenang-senang. Banyak orang menggunakan komputer untuk tugas sehari-hari seperti perbankan elektronik atau menulis makalah. Komputer adalah baik untuk tugas-tugas seperti itu. Mereka dapat menangani tugas berulang, seperti menjumlahkan angka atau menempatkan kata-kata di halaman, tanpa merasa bosan atau lelah.
