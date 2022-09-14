@@ -1,4 +1,4 @@
-### Tugas Pemrograman dasar 2
+### Tugas Pemrograman Dasar 2
 Nama : Delphia Aryana
 
 NIM : 2110131220012
