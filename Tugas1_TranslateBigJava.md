@@ -6,8 +6,8 @@ NIM : 2110131220012
 <h1 align="center">BIG JAVA</h1>
 <h2 align="center">Early Objects</h2>
 
-## Chapter 1
-## I N T R O D U C T I ON
+## BAB 1
+## P E N G E N A L A N
 
 <br>
 
